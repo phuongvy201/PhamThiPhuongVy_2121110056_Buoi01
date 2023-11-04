@@ -1,0 +1,5 @@
+D:\PhamThiPhuongVy_2121110056\Bai02\bin\Debug\Bai02.exe.config
+D:\PhamThiPhuongVy_2121110056\Bai02\bin\Debug\Bai02.exe
+D:\PhamThiPhuongVy_2121110056\Bai02\bin\Debug\Bai02.pdb
+D:\PhamThiPhuongVy_2121110056\Bai02\obj\Debug\Bai02.exe
+D:\PhamThiPhuongVy_2121110056\Bai02\obj\Debug\Bai02.pdb

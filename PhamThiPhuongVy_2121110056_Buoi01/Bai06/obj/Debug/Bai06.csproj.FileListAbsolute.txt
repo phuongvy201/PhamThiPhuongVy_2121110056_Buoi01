@@ -1,0 +1,6 @@
+D:\PhamThiPhuongVy_2121110056\Bai06\bin\Debug\Bai06.exe.config
+D:\PhamThiPhuongVy_2121110056\Bai06\bin\Debug\Bai06.exe
+D:\PhamThiPhuongVy_2121110056\Bai06\bin\Debug\Bai06.pdb
+D:\PhamThiPhuongVy_2121110056\Bai06\obj\Debug\Bai06.exe
+D:\PhamThiPhuongVy_2121110056\Bai06\obj\Debug\Bai06.pdb
+D:\PhamThiPhuongVy_2121110056\Bai06\obj\Debug\Bai06.csprojResolveAssemblyReference.cache

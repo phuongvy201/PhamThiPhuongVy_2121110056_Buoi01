@@ -1,0 +1,6 @@
+D:\PhamThiPhuongVy_2121110056\Buoi04\bin\Debug\Buoi04.exe.config
+D:\PhamThiPhuongVy_2121110056\Buoi04\bin\Debug\Buoi04.exe
+D:\PhamThiPhuongVy_2121110056\Buoi04\bin\Debug\Buoi04.pdb
+D:\PhamThiPhuongVy_2121110056\Buoi04\obj\Debug\Buoi04.csprojResolveAssemblyReference.cache
+D:\PhamThiPhuongVy_2121110056\Buoi04\obj\Debug\Buoi04.exe
+D:\PhamThiPhuongVy_2121110056\Buoi04\obj\Debug\Buoi04.pdb

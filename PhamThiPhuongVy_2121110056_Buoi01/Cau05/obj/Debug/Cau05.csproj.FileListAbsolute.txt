@@ -1,0 +1,5 @@
+D:\PhamThiPhuongVy_2121110056\Cau05\bin\Debug\Cau05.exe.config
+D:\PhamThiPhuongVy_2121110056\Cau05\bin\Debug\Cau05.exe
+D:\PhamThiPhuongVy_2121110056\Cau05\bin\Debug\Cau05.pdb
+D:\PhamThiPhuongVy_2121110056\Cau05\obj\Debug\Cau05.exe
+D:\PhamThiPhuongVy_2121110056\Cau05\obj\Debug\Cau05.pdb
